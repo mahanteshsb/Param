@@ -14,11 +14,10 @@ public class Pattern {
 
 	 for(int i=1;i<=n;i++)
 	{
-		 k=i;
-	 for(int j=1;j<=26;j++)
+		 for(int j=1;j<=26;j++)
 	 { 
-	System.out.print(k+"");
-	k=k+n-j;
+	System.out.println(j+"");
+	//k=k+n-j;
 
 	}
 

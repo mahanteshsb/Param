@@ -19,6 +19,11 @@ public class Calculator {
 			}
 	}
 
+	public double findcleArea() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 
                                                                                                                                                          
 }

@@ -4,10 +4,10 @@ public class AM {
 	static int Pow(int m,int np)
 	{
 	int pw=1;
-	int p;
+	int p = 0;
 	while(p>0)
 	{
-		int n;
+		int n = 0;
 		pw=pw*n;
 		p--;
 	}
@@ -21,12 +21,12 @@ public class AM {
 		int np=tt.nextInt();
 		
 	Pow(m,np);
-	char[] p1;
+	char[] p1 = null;
 	System.out.println(p1);
 	
 	}
 	
 			
-	}
+
 
 }
